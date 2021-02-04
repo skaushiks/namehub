@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/namehub/static/css/main.340288c9.chunk.css",
+    "main.js": "/namehub/static/js/main.ac02d867.chunk.js",
+    "main.js.map": "/namehub/static/js/main.ac02d867.chunk.js.map",
+    "runtime-main.js": "/namehub/static/js/runtime-main.0c4d0f5d.js",
+    "runtime-main.js.map": "/namehub/static/js/runtime-main.0c4d0f5d.js.map",
+    "static/js/2.4912828c.chunk.js": "/namehub/static/js/2.4912828c.chunk.js",
+    "static/js/2.4912828c.chunk.js.map": "/namehub/static/js/2.4912828c.chunk.js.map",
+    "index.html": "/namehub/index.html",
+    "static/css/main.340288c9.chunk.css.map": "/namehub/static/css/main.340288c9.chunk.css.map",
+    "static/js/2.4912828c.chunk.js.LICENSE.txt": "/namehub/static/js/2.4912828c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/namehub/static/media/bg.71121dba.jpg",
+    "static/media/logo1.81199b91.jpg": "/namehub/static/media/logo1.81199b91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4d0f5d.js",
+    "static/js/2.4912828c.chunk.js",
+    "static/css/main.340288c9.chunk.css",
+    "static/js/main.ac02d867.chunk.js"
+  ]
+}
