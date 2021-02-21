@@ -7,7 +7,7 @@ const ResultsContainer = ({suggestName}) => {
     });
 
     return (
-        <div className="results-container">{listOfNames}</div>
+        <div className="resultsContainer">{listOfNames}</div>
     );
 };
 

@@ -5,9 +5,9 @@ const nameCheapUrl = 'https://www.namecheap.com/domains/registration/results/?do
 
 const NameCard = ({list}) => {
         return (
-            <div className="card-container">
+            <div className="nameCard">
                 <a href={`${nameCheapUrl}${list}`} className="links" target="_blank" rel="noreferrer">
-                    <p className="card-item">{list}</p>
+                    <p className="nameCard_item">{list}</p>
                 </a>
             </div>
         );

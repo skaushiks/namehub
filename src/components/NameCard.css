@@ -1,4 +1,4 @@
-.card-container {
+.nameCard {
   background: #a592f2;
   margin: 10px;
   padding: 10px;
@@ -6,11 +6,11 @@
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
 }
 
-.card-container:hover {
+.nameCard:hover {
   transform: scale(1.15);
 }
 
-.card-item {
+.nameCard_item {
   margin: 0;
   font-weight: 300;
 }

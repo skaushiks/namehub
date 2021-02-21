@@ -1,12 +1,12 @@
 import React from 'react';
 import './Header.css';
-import logo from './logo1.jpg';
+import logo from './logo.jpg';
 
 const Header = ({headTitle, headExpand}) => {
     return (
-        <div className="head-container">
-            <img src={logo} alt="headerImage" className={`head-image ${headExpand? "head-image-expanded": "head-image-contracted"}`}/>
-            <h1 className={`head-text ${headExpand? "head-text-expanded": "head-text-contracted"}`}>{headTitle}</h1>
+        <div className="header">
+            <img src={logo} alt="Header Logo" className={`header_image ${headExpand? "header_imageExpanded": "header_imageContracted"}`}/>
+            <h1 className={`header_text ${headExpand? "header_textExpanded": "header_textContracted"}`}>{headTitle}</h1>
         </div>
     );
 };
