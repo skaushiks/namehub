@@ -22,9 +22,9 @@
 }
 
 .header_text {
-  color: #27004b;
-  font-family: "Hachi Maru Pop", cursive;
   margin: 12px 0px;
+  font-family: "Hachi Maru Pop", cursive;
+  color: #27004b;
 }
 
 .header_textExpanded {
